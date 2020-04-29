@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>dwyl.GetMgpExpectationFunction.Composition</RootNamespace>
+    <AssemblyName>GetMgpExpectationFunction.Composition</AssemblyName>
+    <Company>dwyl works</Company>
+    <Authors>Mayo Toya</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MessagePack" Version="2.1.115" />
+  </ItemGroup>
+
+</Project>
